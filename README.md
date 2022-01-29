@@ -16,7 +16,7 @@ You will also see any lint errors in the console.
 
 ### `yarn build`
 
-Builds the app for production to the `dist` folder.\
+Builds the app for production to the `dist` folder.
 
 See documentation on [building for production](https://vitejs.dev/guide/build.html) for more information.
 
@@ -43,4 +43,4 @@ Runs prettier to format project based on [local prettier setup](./.prettierrc.js
 
 ### `yarn type-check`
 
-Run a compile based on a backwards look through the fs for a tsconfig.json
+Run a compile based on a [local tsconfig.json](./tsconfig.json) settings.
