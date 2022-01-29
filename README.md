@@ -2,6 +2,9 @@
 
 This project was bootstrapped using the [vite cli](https://vitejs.dev/).
 
+[![Node.js CI](https://github.com/aklassen/vite-react-starter-app/actions/workflows/node.js.yml/badge.svg)](https://github.com/aklassen/vite-react-starter-app/actions/workflows/node.js.yml)
+[![CodeQL](https://github.com/aklassen/vite-react-starter-app/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/aklassen/vite-react-starter-app/actions/workflows/codeql-analysis.yml)
+
 ## Available Scripts
 
 In the project directory, you can run:
